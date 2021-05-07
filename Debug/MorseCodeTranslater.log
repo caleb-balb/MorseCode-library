@@ -1,0 +1,6 @@
+﻿  MorseCodeTranslater.cpp
+C:\Users\caleb\source\repos\MorseCodeTranslater\MorseCodeTranslater\MorseCodeTranslater.cpp(29,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MorseCodeTranslater\MorseCodeTranslater\MorseCodeTranslater.cpp(50,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MorseCodeTranslater\MorseCodeTranslater\MorseCodeTranslater.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\MorseCodeTranslater\MorseCodeTranslater\MorseCodeTranslater.cpp(121,20): warning C4018: '<': signed/unsigned mismatch
+  MorseCodeTranslater.vcxproj -> C:\Users\caleb\source\repos\MorseCodeTranslater\Debug\MorseCodeTranslater.exe
